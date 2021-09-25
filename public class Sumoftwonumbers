@@ -1,0 +1,14 @@
+package homework;
+
+public class Sumoftwonumbers {
+
+	public static void main(String args[]) {
+		int a, b, sum; //Here I declared that there are three integers a and b and sum.
+		a = 5; // I assigned the value 5 to a.
+		b = 7; // I assigned the value of 7 to b.
+		sum = a+b; //instead of using c, I wanted to use sum as a variable because it described what is represented (the sum of a and b).
+		System.out.println("Sum of 5 and 7 is " + sum +"."); // I printed the sum using the print code for java and using the + to add sum instead of rewriting the print code and putting sum in there separately 
+
+	}
+
+}
