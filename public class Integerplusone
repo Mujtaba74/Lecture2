@@ -1,0 +1,14 @@
+package homework;
+
+public class Integerplusone {
+
+	public static void main(String[] args) {
+		int a; //I declared a is an integer.
+		a = 10; // I assigned the value of 10 to a.
+		System.out.println("The value of a is "+ a + "."); // I wanted to print the original value of a before using the increment code to be able to show the difference in the output.
+		a++; // ++ is used to add the value of 1 to any number. In this case it adds one to the value of a which is 10, so 10+1 is 11. After this a should be printed as having the value of 11 and not 10.
+		System.out.println("The value of a plus one is "+ a + "."); // Printing a here gives the output of 11 because of the increment operator written in the previous line of code. 
+
+	}
+
+}
