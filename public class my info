@@ -1,0 +1,13 @@
+package homework;
+
+public class myinfo {
+
+	public static void main(String[] args) {
+		System.out.println("My name is Mujtuba Ahmed!");
+	 // I inserted my name here using the print code for Java.
+		System.out.println("My email is mahmed74@nyit.edu");
+		System.out.println("My student ID number is 12345678.");
+		//I used a fake student ID because I was uploading this code onto Github.
+	}
+
+}
